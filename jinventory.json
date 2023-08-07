@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1194,
+        "name": "Product1",
+        "category": "Sports & Outdoors",
+        "quantity": 95,
+        "price": 827.41,
+        "description": "This is Product1, a random item in the inventory.",
+        "expiry_date": "2024-04-26"
+    },
+    {
+        "id": 2404,
+        "name": "Product2",
+        "category": "Electronics",
+        "quantity": 72,
+        "price": 745.46,
+        "description": "This is Product2, a random item in the inventory.",
+        "expiry_date": "2023-09-10"
+    },
+    {
+        "id": 6708,
+        "name": "Product3",
+        "category": "Toys",
+        "quantity": 68,
+        "price": 668.72,
+        "description": "This is Product3, a random item in the inventory.",
+        "expiry_date": "2023-09-18"
+    },
+    {
+        "id": 3627,
+        "name": "Product4",
+        "category": "Toys",
+        "quantity": 36,
+        "price": 303.3,
+        "description": "This is Product4, a random item in the inventory.",
+        "expiry_date": "2024-04-04"
+    },
+    {
+        "id": 9035,
+        "name": "Product5",
+        "category": "Clothing",
+        "quantity": 25,
+        "price": 636.25,
+        "description": "This is Product5, a random item in the inventory.",
+        "expiry_date": "2023-12-30"
+    },
+    {
+        "id": 9703,
+        "name": "Product6",
+        "category": "Clothing",
+        "quantity": 51,
+        "price": 727.66,
+        "description": "This is Product6, a random item in the inventory.",
+        "expiry_date": "2024-04-27"
+    },
+    {
+        "id": 7514,
+        "name": "Product7",
+        "category": "Clothing",
+        "quantity": 53,
+        "price": 955.87,
+        "description": "This is Product7, a random item in the inventory.",
+        "expiry_date": "2024-02-19"
+    },
+    {
+        "id": 1862,
+        "name": "Product8",
+        "category": "Home & Kitchen",
+        "quantity": 61,
+        "price": 498.47,
+        "description": "This is Product8, a random item in the inventory.",
+        "expiry_date": "2023-11-07"
+    },
+    {
+        "id": 4330,
+        "name": "Product9",
+        "category": "Toys",
+        "quantity": 63,
+        "price": 170.35,
+        "description": "This is Product9, a random item in the inventory.",
+        "expiry_date": "2023-10-20"
+    },
+    {
+        "id": 5457,
+        "name": "Product10",
+        "category": "Sports & Outdoors",
+        "quantity": 40,
+        "price": 628.27,
+        "description": "This is Product10, a random item in the inventory.",
+        "expiry_date": "2023-10-27"
+    },
+    {
+        "id": 9140,
+        "name": "Product11",
+        "category": "Sports & Outdoors",
+        "quantity": 78,
+        "price": 817.74,
+        "description": "This is Product11, a random item in the inventory.",
+        "expiry_date": "2024-02-20"
+    },
+    {
+        "id": 4302,
+        "name": "Product12",
+        "category": "Toys",
+        "quantity": 62,
+        "price": 379.03,
+        "description": "This is Product12, a random item in the inventory.",
+        "expiry_date": "2023-09-13"
+    },
+    {
+        "id": 6697,
+        "name": "Product13",
+        "category": "Sports & Outdoors",
+        "quantity": 59,
+        "price": 78.45,
+        "description": "This is Product13, a random item in the inventory.",
+        "expiry_date": "2024-06-04"
+    },
+    {
+        "id": 3772,
+        "name": "Product14",
+        "category": "Sports & Outdoors",
+        "quantity": 18,
+        "price": 749.63,
+        "description": "This is Product14, a random item in the inventory.",
+        "expiry_date": "2023-11-12"
+    },
+    {
+        "id": 5282,
+        "name": "Product15",
+        "category": "Sports & Outdoors",
+        "quantity": 13,
+        "price": 182.64,
+        "description": "This is Product15, a random item in the inventory.",
+        "expiry_date": "2023-11-27"
+    },
+    {
+        "id": 2025,
+        "name": "Product16",
+        "category": "Electronics",
+        "quantity": 84,
+        "price": 502.74,
+        "description": "This is Product16, a random item in the inventory.",
+        "expiry_date": "2023-10-03"
+    },
+    {
+        "id": 8244,
+        "name": "Product17",
+        "category": "Toys",
+        "quantity": 39,
+        "price": 327.16,
+        "description": "This is Product17, a random item in the inventory.",
+        "expiry_date": "2024-05-17"
+    },
+    {
+        "id": 1450,
+        "name": "Product18",
+        "category": "Sports & Outdoors",
+        "quantity": 86,
+        "price": 349.34,
+        "description": "This is Product18, a random item in the inventory.",
+        "expiry_date": "2024-02-27"
+    },
+    {
+        "id": 4902,
+        "name": "Product19",
+        "category": "Home & Kitchen",
+        "quantity": 76,
+        "price": 441.26,
+        "description": "This is Product19, a random item in the inventory.",
+        "expiry_date": "2024-04-13"
+    },
+    {
+        "id": 7869,
+        "name": "Product20",
+        "category": "Home & Kitchen",
+        "quantity": 60,
+        "price": 295.14,
+        "description": "This is Product20, a random item in the inventory.",
+        "expiry_date": "2024-06-13"
+    },
+    {
+        "id": 9867,
+        "name": "Product21",
+        "category": "Home & Kitchen",
+        "quantity": 74,
+        "price": 989.84,
+        "description": "This is Product21, a random item in the inventory.",
+        "expiry_date": "2023-12-19"
+    },
+    {
+        "id": 4008,
+        "name": "Product22",
+        "category": "Clothing",
+        "quantity": 65,
+        "price": 243.37,
+        "description": "This is Product22, a random item in the inventory.",
+        "expiry_date": "2024-05-10"
+    },
+    {
+        "id": 7511,
+        "name": "Product23",
+        "category": "Home & Kitchen",
+        "quantity": 68,
+        "price": 58.98,
+        "description": "This is Product23, a random item in the inventory.",
+        "expiry_date": "2024-06-23"
+    },
+    {
+        "id": 2117,
+        "name": "Product24",
+        "category": "Home & Kitchen",
+        "quantity": 64,
+        "price": 532.66,
+        "description": "This is Product24, a random item in the inventory.",
+        "expiry_date": "2023-09-23"
+    },
+    {
+        "id": 8547,
+        "name": "Product25",
+        "category": "Home & Kitchen",
+        "quantity": 14,
+        "price": 98.66,
+        "description": "This is Product25, a random item in the inventory.",
+        "expiry_date": "2023-10-12"
+    },
+    {
+        "id": 8435,
+        "name": "Product26",
+        "category": "Sports & Outdoors",
+        "quantity": 97,
+        "price": 743.05,
+        "description": "This is Product26, a random item in the inventory.",
+        "expiry_date": "2023-10-24"
+    },
+    {
+        "id": 2614,
+        "name": "Product27",
+        "category": "Electronics",
+        "quantity": 30,
+        "price": 814.4,
+        "description": "This is Product27, a random item in the inventory.",
+        "expiry_date": "2024-04-30"
+    },
+    {
+        "id": 8279,
+        "name": "Product28",
+        "category": "Clothing",
+        "quantity": 75,
+        "price": 277.5,
+        "description": "This is Product28, a random item in the inventory.",
+        "expiry_date": "2023-12-10"
+    },
+    {
+        "id": 4731,
+        "name": "Product29",
+        "category": "Electronics",
+        "quantity": 46,
+        "price": 203.1,
+        "description": "This is Product29, a random item in the inventory.",
+        "expiry_date": "2024-07-24"
+    },
+    {
+        "id": 3063,
+        "name": "Product30",
+        "category": "Electronics",
+        "quantity": 84,
+        "price": 662.64,
+        "description": "This is Product30, a random item in the inventory.",
+        "expiry_date": "2024-03-23"
+    }
+]
